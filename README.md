@@ -241,6 +241,9 @@ Federated learning architecture where clients train locally and share model upda
 - UNSW-NB15 (Modern network traffic dataset)
 - CIC-DDoS2019 (DDoS attack dataset)
 
+## DOI
+DOI: https://doi.org/10.5281/zenodo.19998858
+
 
 ## Reproducibility
 
@@ -263,5 +266,4 @@ python src/evaluate.py
 Datasets are stored locally in `external_ids_datasets/`.  
 They will be loaded automatically when running the notebook.
 
-## DOI
-DOI: https://doi.org/10.5281/zenodo.19998858
+
